@@ -42,6 +42,7 @@ const Card = ({
             fontSize: "1.8rem",
             fontWeight: "200",
             fontFamily: "monospace",
+            textAlign: "center",
           }}
         >
           {name}
